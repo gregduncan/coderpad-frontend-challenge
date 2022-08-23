@@ -28,7 +28,7 @@ The objective of the frontend code challenge is to create a UI which displays th
 
 Steps to implement:
 
-- Replace the code in 'App.tsx' with your updates to produce the required UI.
+- Replace the code in src/App.tsx with your updates to produce the required UI.
 - Store the response from the API request in state as a User object.
 - Use side effects to update the User object based on the selection in the drop down.
 - Only render the User object if the User object is defined.
