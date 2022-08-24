@@ -14,7 +14,7 @@ This will install all the dependencies required to run the code challenge.
 
 ### Run the local server
 
-To boot up the apprun the following command in a terminal at the repo root:
+To boot up the app run the following command in a terminal at the repo root:
 
 ```bash
 npm run dev
