@@ -4,7 +4,7 @@
 
 To run the code challenge you will need a version of node installed >=12.0.0.
 
-Download this repo then run the following commands in a terminal at the repo root:
+Download this repo then run the following command in a terminal at the repo root:
 
 ```bash
 npm install
@@ -13,6 +13,8 @@ npm install
 This will install all the dependencies required to run the code challenge.
 
 ### Run the local server
+
+To boot up the apprun the following command in a terminal at the repo root:
 
 ```bash
 npm run dev
