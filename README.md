@@ -22,7 +22,7 @@ Then navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### The Challenge
 
-The objective of the frontend code challenge is to create a UI which displays the ID, Name and Email address of a selected user. When a user is selected in the drop list, the ID, Name and Email address of the selected user should be displayed. Only one user should be displayed at a time.
+The objective of the frontend code challenge is to create a UI which displays the ID, Name and Email address of a selected user. When a user is selected from the drop down list, the ID, Name and Email address of the selected user should be displayed. Only one user should be displayed at a time.
 
 <img src="example.png" alt="example" />
 
